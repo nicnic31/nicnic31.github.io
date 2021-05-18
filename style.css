@@ -1,0 +1,126 @@
+body{
+    line-height: 1.5rem;
+    text-align: center;
+}
+/*Landing Section*/
+#landing{
+    line-height: 1.5rem;
+}
+.landing-section{
+    background-color: #3d84b8;
+    padding: 75px 72px;;
+    color: white;
+}
+.navbar{
+    margin: 0 50px 25px 15px;
+}  
+.logo-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+}
+.nav-link{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1.2rem;
+}
+.logo{
+    width: 3%;
+}
+.landing-heading{
+    text-align: left;
+}
+.landing-text{
+    font-size: 5rem;
+}
+.landing-button{
+    margin: 5% 3% 5% 0;
+}
+.landing-img{
+    width: 70%;
+}
+
+/*Description*/
+#description{
+    background-color: white;
+    padding: 125px;
+}
+#description p{
+    color: gray;
+}
+.description-icon{
+    color: #3edbf0;
+}
+.description-icon:hover{
+    color: #3d84b8;
+}
+
+/*Profile*/
+#profile{
+    background-color: #51c4d3;
+    color: white;
+    padding: 7% 10% 5%;
+}
+.profile-img{
+    border-radius: 100%;
+    margin-bottom: 40px;
+    width:17%;
+}
+.profile-content{
+    font-size: 1.25rem;
+    text-indent: 50px;
+    text-align: justify;
+}
+
+/*Activities*/
+#activities{
+    background-color: white;
+    padding: 100px 100px 35px 100px;
+}
+.act-heading{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 40px;
+}
+.act-heading-content{
+    font-size: 1.5rem;
+}
+.act-col{
+    padding: 2%;
+}
+.card{
+    height: 350px;
+    width: 350px;
+}
+
+.act-display{
+    height: 50%;
+    width: 100%;
+}
+.act-display:hover{
+    transform: scale(1.1);
+}
+.act-img{
+    width: 60%;
+}
+
+
+/*Carousel*/
+.carousel-icon{
+    color:black;
+}
+.carousel-icon:hover{
+    color: darkblue;
+}
+.carousel-caption{
+    background-color: #a7bbc7;
+}
+
+/*Footer*/
+#footer{
+    background-color: #51c4d3;
+    color: white;
+    margin-top:20px;
+    padding: 20px;
+}
+.footer-text{
+    font-size: 0.75rem;
+}
